@@ -27,14 +27,10 @@ A key deliverable of the project was the design of nitrous injection solenoid ba
 
 ## 🗒️ Prints
 
-<div>
-    <a href="assets/NitrousPlate4150.png">
-        <img src="assets/NitrousPlate4150.png" alt="Nitrous Plate PDF" width="353.5" />
-    </a>
-    <a href="https://x.com/nitrousracecon1/status/1590818819031064576/video/1">
-        <img src="assets/NitrousPlate.gif" alt="Video Demo" width="250"/>
-    </a>
-</div>
+<img src="\assets\Assembly (Drawer)-1.png" alt="Drawer Assembly" width="250" />
+<img src="\assets\Assembly (No Drawer)-1.png" alt="No Drawer Assembly" width="250" />
+<img src="\assets\Full Assembly-1.png" alt="Drawer Assembly" width="250" />
+
 
 ---
 
