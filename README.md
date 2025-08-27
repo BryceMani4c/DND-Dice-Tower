@@ -5,8 +5,7 @@
 
 # 🎲 DND Dice Tower
 
-> This project comes from Nitrous Racing Connections, with this company we updated and designed nitrous racing injectors and accompanying parts
-
+> Simple dice tower for randomized rolls!
 ---
 
 ## 📙 Table of Contents  
@@ -17,11 +16,7 @@
 ---
 
 ## 📌 About  
-This project focused on updating and modernizing legacy prints from Nitrous Racing Connections (NRC) to create accurate, manufacturable CAD designs for nitrous system components. Using Autodesk Inventor and Fusion 360, detailed 2D and 3D models were drafted for parts such as fuel rails, throttle bodies, and flange plates.
-
-Quality checks were performed on each model and drawing to ensure accuracy, completeness, and compliance with design standards and specifications. Collaboration with company stakeholders was an essential part of the process, helping resolve design-related issues and ensuring the final outputs were optimized for manufacturability.
-
-A key deliverable of the project was the design of nitrous injection solenoid base plates for Subaru engines, taking outdated references and transforming them into precise, production-ready CAD models.
+> this is a very simple project that I did while in highschool, this project is a DND dice tower that when placing the dice in the top of the tower, it will have the die fall through a series of angled platforms rolling the die until it falls out of the bottom!
 
 ---
 
